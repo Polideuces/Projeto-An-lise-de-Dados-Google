@@ -58,8 +58,19 @@ Foram analisados os dados de viagem de aproximadamente 4.2 milhões de registros
 
 ### Distribuição percentual do total de passeios
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/frequencia_usuario.png" alt="" width= "50%">
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/dura%C3%A7%C3%A3o_media_usuario.png" alt="" width= "50%">
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/frequencia_usuario.png"></td>            
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/dura%C3%A7%C3%A3o_media_usuario.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+               
+
+
 
 **Percepções**
 
@@ -86,9 +97,20 @@ Foram analisados os dados de viagem de aproximadamente 4.2 milhões de registros
 
 ### Distribuição do uso dos tipos de bicicleta
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/bicicleta_dura%C3%A7%C3%A3o_media.png" alt="" width= "50%">
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/bicicleta_dura%C3%A7%C3%A3o_media.png"></td>     
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/tipo_bicicleta_viagens.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/6014986b6922eaffee374909cacd3b3e0edda6b2/Graficos/tipo_bicicleta_viagens.png" alt="" width= "50%">
+
+
+
 
 
 **Percepsões** 
@@ -103,9 +125,20 @@ Foram analisados os dados de viagem de aproximadamente 4.2 milhões de registros
 
 ### Distribuição mensal
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/mensal.png" alt="" width= "50%">
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/mensal.png"></td>   
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/usuario_mensal.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/usuario_mensal.png" alt="" width= "50%">
+
+
+
 
 
 **Percepsões** 
@@ -118,9 +151,20 @@ Foram analisados os dados de viagem de aproximadamente 4.2 milhões de registros
 
 ### Distribuição por Estação do Ano
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/viagens_estacao_ano.png" alt="" width= "50%">
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/viagens_estacao_ano.png"></td>     
+                     <td><img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/viagens_clientes_estacao.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
 
-<img src= "https://github.com/Polideuces/Projeto-Cyclist/blob/ee75f368d9b7b4dd7d96ae6919f0d2d891a272e3/Graficos/viagens_clientes_estacao.png" alt="" width= "50%">
+
+
+
 
 **Percepsões** 
 
@@ -159,7 +203,7 @@ Para uma análise mais profunda e detalhada seria ideal algumas informações:
   
 * Analisar o nível de crime (assalto, agressões, homicídio, vandalismo, acidente de carro) na cidade ou nas regiões que se encontram as bicicletas.
   
-*Informar se um cliente renovou o pacote, se transferiu do casual para o member ou se o pacote venceu.
+* Informar se um cliente renovou o pacote, se transferiu do casual para o member ou se o pacote venceu.
 
 * Verificar o número de viagens que ocorrem por hora em cada semana ou mês, para ter informação se nos horários de pico possui bicicleta vaga ou não.
 
