@@ -1,6 +1,7 @@
 # Estudo de caso 
 ## Análise de dados do compartilhamento de bicicletas da Cyclistic
 Autor: Cássio Lanna
+
 [Dashboard] (URL)
 
 ## Índice
