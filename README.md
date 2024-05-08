@@ -2,7 +2,7 @@
 ## Análise de dados do compartilhamento de bicicletas da Cyclistic
 Autor: Cássio Lanna
 
-[Dashboard] (URL)
+[Dashboard](https://public.tableau.com/views/Cyclist_17151992082560/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Índice
 [1. Introdução](#introdução)
@@ -40,10 +40,10 @@ Conquistar mais membros anuais é crucial para o crescimento sustentável da emp
 
 ## Processamento e Limpeza
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Rstudio**;
-* Toda a **documentação e script** do trabalho está [aqui.] (URL)
-* [**Dashboard**] (URL)
-* Para auxiliar na análise, foram adicionadas
-* Antes da limpeza, todo o dataset possuia  linhas.
+* Toda a **documentação e script** do trabalho está [aqui.]([URL](https://github.com/Polideuces/Projeto-Cyclist/blob/afe718b4fe13b270ca9eac0dafec534c49cecf41/Documento%20em%20R/projeto_cyclist.R))
+* [**Dashboard**]([URL](https://public.tableau.com/views/Cyclist_17151992082560/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link))
+* Para auxiliar na análise, foram adicionadas seis colunas.
+* Antes da limpeza, todo o dataset possuia  linhas 5.859.061 linas.
 * **Processo de limpeza:** No processo foram apagadas:
   * Linhas com nomes de estação inicial e final ausentes encontradas;
   * Outras colunas que não possuiam utilidade para esta análise;
