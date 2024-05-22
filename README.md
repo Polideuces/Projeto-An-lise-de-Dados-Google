@@ -41,7 +41,7 @@ Conquistar mais membros anuais é crucial para o crescimento sustentável da emp
 ## Processamento e Limpeza
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Rstudio**;
 * Toda a **documentação e script** do trabalho está [aqui.](https://github.com/Polideuces/Projeto-Cyclist/blob/afe718b4fe13b270ca9eac0dafec534c49cecf41/Documento%20em%20R/projeto_cyclist.R)
-* [**Dashboard**]([URL](https://github.com/lannacassio/Projeto-Cyclist/blob/main/README.md))
+* [**Dashboard**](https://github.com/lannacassio/Projeto-Cyclist/blob/main/README.md)
 * Para auxiliar na análise, foram adicionadas seis colunas.
 * Antes da limpeza, todo o dataset possuia  linhas 5.859.061 linas.
 * **Processo de limpeza:** No processo foram apagadas:
