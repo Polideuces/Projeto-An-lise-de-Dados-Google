@@ -2,7 +2,7 @@
 ## Análise de dados do compartilhamento de bicicletas da Cyclistic
 Autor: Cássio Lanna
 
-[Dashboard](https://public.tableau.com/views/Cyclist_17151992082560/Painel1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/views/Cyclist_17151992082560/Painel2?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Índice
 [1. Introdução](#introdução)
